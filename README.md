@@ -1,5 +1,21 @@
-# Projeto 01 -  Programa Explorer da Rocketseat - Stage 02
+# Desafio Corrigindo bugs (01)
 
-Alterei algumas medidas de margin-bottom para deixar um pouco menor do que o projeto original, as demais arrumei conforme era a idéia original.
+Desafio do Stage02 que faz parte do Programa Explorer da Rocketseat
 
-Tecnologias utilizadas: HTML - CSS - Git e Github.
+## Screenshots
+
+![preview](preview.jpg)
+
+
+[🔗 Clique aqui para acessar](https://fabiovascao.github.io/Projeto-01/)
+
+## 🛠 Tecnologias
+
+- HTML
+- CSS
+- Git e Github
+
+
+## Autor
+
+- [@FabioVascão](https://www.github.com/fabiovascao)
